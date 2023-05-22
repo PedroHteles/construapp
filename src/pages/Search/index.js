@@ -42,7 +42,3 @@ export default function Search() {
     </Container>
   );
 };
-
-Search.navigationOptions = {
-  headerShown: false
-};
